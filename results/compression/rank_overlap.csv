@@ -1,0 +1,15 @@
+method,keep,metric,raw_highest_top3,damage_direction_top3,delta_nll_top3,raw_highest_overlap,damage_direction_overlap
+hc,32,relative_l2,"3,8,9","3,8,9","15,14,12",0,0
+hc,32,cosine_similarity,"15,1,11","7,4,5","15,14,12",1,0
+hc,32,expert_relative_l2,"3,8,9","3,8,9","15,14,12",0,0
+reap,32,relative_l2,"4,7,5","4,7,5","15,14,13",0,0
+reap,32,cosine_similarity,"15,1,0","8,3,5","15,14,13",1,0
+reap,32,expert_relative_l2,"13,7,5","13,7,5","15,14,13",1,1
+reap,32,routing_relative_l2,"4,7,5","4,7,5","15,14,13",0,0
+hc,48,relative_l2,"3,8,9","3,8,9","15,14,10",0,0
+hc,48,cosine_similarity,"15,1,11","7,10,14","15,14,10",1,2
+hc,48,expert_relative_l2,"3,8,9","3,8,9","15,14,10",0,0
+reap,48,relative_l2,"4,7,5","4,7,5","15,14,13",0,0
+reap,48,cosine_similarity,"15,11,0","7,3,8","15,14,13",1,0
+reap,48,expert_relative_l2,"7,12,13","7,12,13","15,14,13",1,1
+reap,48,routing_relative_l2,"4,5,6","4,5,6","15,14,13",0,0

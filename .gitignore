@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+reproduced/
+checkpoints/
+cache/
+*.pt
+*.safetensors

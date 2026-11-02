@@ -1,0 +1,3 @@
+keep,n_layers,negative_cross_term_layers,n_partial_cancellation,n_reinforcement,n_total_below_removed_only,mean_cosine,mean_cancellation_ratio,mean_total_vs_removed_norm_ratio
+32,16,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",16,0,0,-0.1315975310280919,0.11242428990746664,2.0564643228712836
+48,16,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",16,0,0,-0.10097774374298751,0.09508876854208524,1.6870286314307128

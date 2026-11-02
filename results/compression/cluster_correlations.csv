@@ -1,0 +1,3 @@
+keep,clusters,pearson_r,pearson_p,spearman_rho,spearman_p,caution
+32,30,-0.6607173401549585,7.069190933880405e-05,-0.8184649610678532,3.280343802400109e-08,"clusters nested in 16 layers; descriptive pooled correlation, not independent samples"
+48,27,-0.8606945087066344,8.48889569020942e-09,-0.9188034188034188,1.379066454908071e-11,"clusters nested in 16 layers; descriptive pooled correlation, not independent samples"

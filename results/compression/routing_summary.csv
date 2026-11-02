@@ -1,0 +1,5 @@
+method,keep,aggregation,removed_selected_routing_mass,removed_full_softmax_mass,affected_token_ratio,routing_replacement_ratio,collision_token_ratio,collision_slot_ratio,mean_probability_total_variation,teacher_entropy,compressed_entropy,replacement_vs_removed_count_difference_per_slot,retained_router_max_logit_change
+hc,32,equal mean over 16 layers (same token count),0.0,0.0,N/A,0.0,0.9281787872314453,0.3130760192871094,0.0,3.7744905799627304,3.7744905799627304,0.0,0.0
+reap,32,equal mean over 16 layers (same token count),0.1651576105505228,0.48886554315686226,0.9869766235351562,0.44704723358154297,N/A,N/A,0.48886553198099136,3.7744905799627304,3.046763524413109,0.0,0.0
+hc,48,equal mean over 16 layers (same token count),0.0,0.0,N/A,0.0,0.47733497619628906,0.1009664535522461,0.0,3.7744905799627304,3.7744905799627304,0.0,0.0
+reap,48,equal mean over 16 layers (same token count),0.06515385676175356,0.23870154656469822,0.7549533843994141,0.1882922649383545,N/A,N/A,0.23870154283940792,3.7744905799627304,3.459519326686859,0.0,0.0

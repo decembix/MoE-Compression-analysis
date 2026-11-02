@@ -1,0 +1,6 @@
+method,layer,alpha_selected_on_original,original_gain_at_selected_alpha,independent_gain_at_selected_alpha,independent_gain_at_alpha1,independent_improvement_vs_alpha1,improvement_ci95_low,improvement_ci95_high,selection_data
+hc,10,0.75,0.01548682070197982,0.02609417002688197,0.023480457294722257,0.002613712732159712,0.0007286741120607856,0.004403200270726417,original only; independent alpha never selected for this comparison
+hc,3,1.0,0.02847042437988767,0.022096755101418175,0.022096755101418175,0.0,0.0,0.0,original only; independent alpha never selected for this comparison
+hc,15,0.5,0.034696845598118475,0.03984336815738043,0.010112147177419928,0.029731220979960504,0.022473480508008195,0.03668012385960315,original only; independent alpha never selected for this comparison
+reap,15,0.75,0.06498746601600702,0.059232143129888115,0.05438966275659851,0.004842480373289604,0.0008851727199461223,0.00915896638514126,original only; independent alpha never selected for this comparison
+reap,4,0.75,0.01324468856915928,0.020613773826979376,0.02364035389174024,-0.0030265800647608643,-0.006033828974003199,6.794113800557238e-07,original only; independent alpha never selected for this comparison
