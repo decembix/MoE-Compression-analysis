@@ -4,9 +4,9 @@
 
 OLMoE-1B-7B-0924에서 REAP pruning과 HC-SMoE merging을 비교하고, Oracle 복원·Expert LoRA·NLL gradient/interpolation으로 recovery를 진단합니다.
 
-[분석 문서](reports/overview.md) · [결과 CSV](results/README.md) · [인터랙티브 뷰어 HTML](docs/viewer/index.html) · [게시·로컬 실행](DEPLOYMENT.md)
+**[인터랙티브 뷰어 바로 열기](https://decembix.github.io/MoE-Compression-analysis/viewer/)** · [분석 홈](https://decembix.github.io/MoE-Compression-analysis/) · [분석 문서](reports/overview.md) · [결과 CSV](results/README.md) · [게시·로컬 실행](DEPLOYMENT.md)
 
-인터랙티브 뷰어는 HTML을 다운로드해 브라우저에서 열거나 저장소를 clone한 뒤 `docs/viewer/index.html`을 열면 바로 동작합니다. GitHub Pages를 `main /docs`로 설정하면 `https://decembix.github.io/MoE-Compression-analysis/`에서 접근할 수 있습니다. GitHub 파일 화면의 HTML은 소스로 표시됩니다.
+브라우저에서 바로 보려면 위의 **인터랙티브 뷰어 바로 열기**를 사용하세요. GitHub Pages에 게시된 실행 화면입니다. GitHub의 `blob/main/docs/viewer/index.html`은 소스 파일 주소이며, 약10MB라 GitHub 미리보기도 제한됩니다. 오프라인에서는 저장소를 clone한 뒤 `docs/viewer/index.html`을 브라우저로 열 수 있습니다.
 
 ## 같은 입력에서 본 압축 전후 output
 
